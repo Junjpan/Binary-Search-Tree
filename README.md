@@ -1,7 +1,7 @@
 # Binary-Search-Tree
 
 ##Data Structures: Binary Search Tree
-###-find the Minimum and Maximum Value in a Binary Search Tree
+* find the Minimum and Maximum Value in a Binary Search Tree
 ###-Add a New Element to a Binary Search Tree
 ###-Check if an Element is Present in a Binary Search Tree
 ###-Find the Minimum and Maximum Height of a Binary Search Tree
